@@ -1,0 +1,23 @@
+{
+  "name": "MayhemsMemberCount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrepareForMayhem/MayhemsMemberCount.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrepareForMayhem/MayhemsMemberCount/issues"
+  },
+  "homepage": "https://github.com/PrepareForMayhem/MayhemsMemberCount#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
